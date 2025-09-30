@@ -1,0 +1,14 @@
+pi-mining-app/
+├── App.tsx
+├── firebaseConfig.ts
+├── components/
+│   └── MiningProgress.tsx
+├── screens/
+│   ├── LoginScreen.tsx
+│   ├── RegisterScreen.tsx
+│   ├── HomeScreen.tsx
+│   └── WalletScreen.tsx
+├── utils/
+│   └── generateWallet.ts
+├── package.json
+└── README.md
